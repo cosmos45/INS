@@ -21,7 +21,7 @@ new javax.mail.Authenticator() {
 protected PasswordAuthentication
 getPasswordAuthentication() {
 return new
-PasswordAuthentication("astleribeiro1912@gmail.com","astle@wifey");
+PasswordAuthentication("astleribeiro1912@gmail.com","password");
 }
 });
 try {
